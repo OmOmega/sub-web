@@ -216,9 +216,9 @@ export default {
             label: "universal",
             options: [
               {
-                label: "No-Urltest",
+                label: "MyConfig",
                 value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/no-urltest.ini"
+                  "https://clash-list.vercel.app/config.ini"
               },
               {
                 label: "Urltest",
